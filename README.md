@@ -27,6 +27,15 @@ Constructor : a specific function that we use to set tup the class.
 <br>
 <Br>
 <img width="848" alt="image" src="https://github.com/user-attachments/assets/f222f04a-af06-4992-afd6-8871872959fb" />
+<br>
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/263f414f-7c0d-4d3a-9a01-ed574257b08b" />
+<br>
+<Br>
+<img width="858" alt="image" src="https://github.com/user-attachments/assets/5d2c9920-0fa2-4994-b514-6c832607bbde" />
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/79dcc286-95d6-4da4-8d9a-714240fa37fa" />
+
+
+
 
 
 
