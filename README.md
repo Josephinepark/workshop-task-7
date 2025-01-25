@@ -8,12 +8,12 @@
 [] Build a simulation of a real or imagined entity or environment.<br>
 [] Experiment with random walks and/or particle systems in your sketch.<br>
 
-## Notes
+## Notes from the workshop video
 
 Objects : very useful way to control graphics and to create simulations on screen.
 
 
-## Process and Experimentation
+## Progress (Experiementation and problem solving)
 <br>
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/9a22f908-1250-456c-86e5-38799dfe9dc6" />
 <Br>
@@ -40,6 +40,10 @@ Constructor : a specific function that we use to set tup the class.
 
 
 
-## Problem Solving & Code
+## codes
 
 ## Future Development
+
+## Reference / other sources that helped me
+
+https://www.youtube.com/watch?v=WvpsFttvl3E
