@@ -34,6 +34,10 @@ Constructor : a specific function that we use to set tup the class.
 <img width="858" alt="image" src="https://github.com/user-attachments/assets/5d2c9920-0fa2-4994-b514-6c832607bbde" />
 <img width="856" alt="image" src="https://github.com/user-attachments/assets/79dcc286-95d6-4da4-8d9a-714240fa37fa" />
 
+<br>
+<Br>
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/5fe92771-5339-4613-b872-137b7ffc700a" />
+
 
 
 
@@ -42,8 +46,13 @@ Constructor : a specific function that we use to set tup the class.
 
 ## codes
 
+
 ## Future Development
 
 ## Reference / other sources that helped me
+
+https://www.youtube.com/watch?v=l__fEY1xanY&t=835s
+
+https://www.youtube.com/watch?v=m2lT4QojnGg
 
 https://www.youtube.com/watch?v=WvpsFttvl3E
