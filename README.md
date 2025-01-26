@@ -2,7 +2,9 @@
 
 # Workshop 7 : Simulation
 
-[Website Link] 
+[Website Link] https://josephinepark.github.io/workshop-task-7/
+
+- when you click the mouse in the picture, the walkers will be created with the same colours as the pixel values.
 
 ## Task
 [] Build a simulation of a real or imagined entity or environment.<br>
