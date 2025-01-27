@@ -57,8 +57,21 @@ Constructor : a specific function that we use to set tup the class.
 
 ## codes
 
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/9216c468-97bc-4ba4-81f2-c426e70732c8" />
+<br>
+<br>
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/94e708a2-5e3d-4832-9411-53bd41a6cbfc" />
+<br>
+<br>
+
+
+
 
 ## Future Development
+
+In this workshop, I explored various simulations using code. Specifically, I experimented with creating images using walkers. I implemented a system where an image is set as the background, and each time the user clicks the mouse, walkers of similar colors to the background are generated.
+
+If I further develop this project, I plan to start with a black background, gradually revealing the image as the user clicks, creating an evolving sketch. In addition to walkers, I would like to experiment with particles and other system-based approaches to create a more advanced and dynamic sketch. Through this, I hope to achieve a more creative and interactive outcome.
 
 ## Reference / other sources that helped me
 
